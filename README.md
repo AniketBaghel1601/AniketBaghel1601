@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbaghel1601&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbaghel1601" /> </p>
 
-- 👨‍💻 All of my projects are available at [AniketBaghel1601.github.io](AniketBaghel1601.github.io)
+- 👨‍💻 All of my projects are available at [AniketBaghel1601.github.io](https://aniketbaghel1601.github.io/)
 
 - 💬 Ask me about **Node.js, express.js, MongoDB**
 
